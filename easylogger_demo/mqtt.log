@@ -1,0 +1,12 @@
+[05-15 22:27:03 tid:14000] (src/elog.c elog_start:217)EasyLogger V2.2.0 is initialize success.A/NO_TAG   [05-15 22:27:03 pid:2503 tid:14000] (main.c main:64)Hello EasyLogger!assert
+E/NO_TAG   [05-15 22:27:03 pid:2503 tid:14000] (main.c main:65)Hello EasyLogger!error
+[05-15 22:27:03 pid:2503 tid:14000] (main.c main:66)Hello EasyLogger!warn
+[05-15 22:27:03 tid:14000] (main.c main:67)Hello EasyLogger!info
+[05-15 22:27:03 tid:14000] (main.c test:41)test info:[5][happy][05-15 22:27:03 tid:14000] (main.c main:68)Hello EasyLogger!debug
+V/NO_TAG   [05-15 22:27:03 pid:2503 tid:14000] (main.c:69)Hello EasyLogger!verbose
+A/NO_TAG   [05-15 22:27:08 pid:2503 tid:14000] (main.c main:64)Hello EasyLogger!assert
+E/NO_TAG   [05-15 22:27:08 pid:2503 tid:14000] (main.c main:65)Hello EasyLogger!error
+[05-15 22:27:08 pid:2503 tid:14000] (main.c main:66)Hello EasyLogger!warn
+[05-15 22:27:08 tid:14000] (main.c main:67)Hello EasyLogger!info
+[05-15 22:27:08 tid:14000] (main.c main:68)Hello EasyLogger!debug
+[05-15 22:27:08 tid:14000] (main.c test:41)test info:[5][happy]V/NO_TAG   [05-15 22:27:08 pid:2503 tid:14000] (main.c:69)Hello EasyLogger!verbose
